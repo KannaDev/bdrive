@@ -4,12 +4,12 @@ Gdrive, but using blockchain :)
 ## Features:
 - [x] **BCoin**: bdrive's own cryptocurrency for transactions on the platform
 - [x] **Wesite Front End**: Website for bdrive
-- [] **Splitting**: Split the "to-be uploded" file into smaller parts for easier upload to IPFS
-- [] **Encryption**: Encrypt the different parts of the file sperately
+- [ ] **Splitting**: Split the "to-be uploded" file into smaller parts for easier upload to IPFS
+- [ ] **Encryption**: Encrypt the different parts of the file sperately
 - [x] **IPFS - Upload**: Upload all files to IPFS
-- [] **Assign Hard Drives**: Assign different parts of file to different hard drives
-- [] **IPFS - Download**: Download parts on hard drive
-- [] **Payment**: Pay through BCoin
+- [ ] **Assign Hard Drives**: Assign different parts of file to different hard drives
+- [ ] **IPFS - Download**: Download parts on hard drive
+- [ ] **Payment**: Pay through BCoin
 
 ## Made By:
 [Anirudh Emmmadi](https://anirudhemmadi.com)
