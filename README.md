@@ -12,13 +12,10 @@ Gdrive, but using blockchain :)
 - [ ] **Payment**: Pay through BCoin
 
 ## Made By:
-[Anirudh Emmmadi](https://anirudhemmadi.com)
-
-[Sanjeev Penupala](https://www.linkedin.com/in/sanjeev-penupala/)
-
-[Vihas Gowreddy](https://www.linkedin.com/in/vihas-gowreddy-550499171/)
-
-[Anirudh Kantareddy](https://www.linkedin.com/in/anirudh-kantareddy-b3529116b/)
+- [Anirudh Emmmadi](https://anirudhemmadi.com)
+- [Sanjeev Penupala](https://www.linkedin.com/in/sanjeev-penupala/)
+- [Vihas Gowreddy](https://www.linkedin.com/in/vihas-gowreddy-550499171/)
+- [Anirudh Kantareddy](https://www.linkedin.com/in/anirudh-kantareddy-b3529116b/)
 
 ### For Proof of Hack 2018 Hackathon
 
